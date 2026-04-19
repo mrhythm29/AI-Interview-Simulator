@@ -38,5 +38,11 @@ AI Interview Simulator/
 ├── static/
 │ ├── style.css
 │ └── script.js
+
+## 🌍 Live Demo
+
+https://ai-interview-simulator-topaz.vercel.app
+
+
 <img width="679" height="730" alt="AI Interview Simulator image 2" src="https://github.com/user-attachments/assets/52895e8f-3e38-4938-8a0e-55b16973fdf1" />
 <img width="680" height="686" alt="AI Interview Simulator image 1" src="https://github.com/user-attachments/assets/087127f6-7551-48bf-a30c-9edee630560f" />
