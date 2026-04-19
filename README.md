@@ -1,3 +1,6 @@
+<img width="679" height="730" alt="AI Interview Simulator image 2" src="https://github.com/user-attachments/assets/52895e8f-3e38-4938-8a0e-55b16973fdf1" />
+<img width="680" height="686" alt="AI Interview Simulator image 1" src="https://github.com/user-attachments/assets/087127f6-7551-48bf-a30c-9edee630560f" />
+<img width="680" height="686" alt="AI Interview Simulator image 1" src="https://github.com/user-attachments/assets/40d39a4c-0612-4fcd-8882-a9d568745a23" />
 # 🤖 AI Interview Simulator
 
 An interactive web application that simulates real interview scenarios and provides instant feedback with scoring.
