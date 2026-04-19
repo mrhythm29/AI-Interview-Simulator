@@ -1,0 +1,97 @@
+<!DOCTYPE html><div class="bg-animation"></div>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Interview Simulator</title>
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <!-- Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- Navbar -->
+    <nav class="navbar">
+        <div class="logo">Confidant AI</div>
+
+        <div class="nav-links">
+            <a href="/" class="active">Home</a>
+            <a href="#">Practice</a>
+            <a href="#">Resources</a>
+        </div>
+
+        <div class="nav-actions">
+            <a href="/interview" class="btn-primary">Start Interview</a>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero-container">
+
+        <div class="hero-content">
+            <span class="badge">AI Powered</span>
+
+            <h1 class="hero-title">
+                Crack Your <span>Dream Interview</span>
+            </h1>
+
+            <p class="hero-subtitle">
+                Practice real interview questions with AI, improve your answers,
+                and boost your confidence before the real interview.
+            </p>
+
+            <div class="hero-actions">
+                <a href="/interview" class="btn-primary">Start Interview</a>
+                <a href="#" class="btn-secondary">Learn More</a>
+            </div>
+        </div>
+
+        <div class="hero-visual">
+            <div class="visual-placeholder">
+                <div class="audio-bars">
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                    <div class="bar"></div>
+                </div>
+            </div>
+
+            <div class="visual-caption">
+                <div class="live-indicator">
+                    <div class="dot"></div> LIVE AI
+                </div>
+                <div>Interview Mode</div>
+            </div>
+        </div>
+
+    </section>
+
+    <!-- Features -->
+    <section class="features">
+
+        <div class="feature-card">
+            <div class="feature-icon">🧠</div>
+            <h3>Smart Questions</h3>
+            <p>Practice real interview questions asked by top companies.</p>
+        </div>
+
+        <div class="feature-card">
+            <div class="feature-icon">⚡</div>
+            <h3>Real-Time Practice</h3>
+            <p>Simulate real interview environment with timer and pressure.</p>
+        </div>
+
+        <div class="feature-card">
+            <div class="feature-icon">📈</div>
+            <h3>Improve Performance</h3>
+            <p>Track your answers and get better with every attempt.</p>
+        </div>
+
+    </section>
+
+</body>
+</html>
